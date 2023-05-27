@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This is a web application that replicates the functionality of YouTube. It allows users to watch, upload, and share videos. The application is built using the React JavaScript library, which makes it easy to create dynamic and interactive user interfaces.
+This is a web application that replicates the functionality of YouTube. It allows users to watch, search, and interact with videos. The application is built using the React JavaScript library, which makes it easy to create dynamic and interactive user interfaces.
 
 ## Getting Started
 
